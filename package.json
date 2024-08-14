@@ -1,0 +1,15 @@
+{
+  "name": "parse-gzhel",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./index.js"
+  },
+  "author": "olni",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.0.2"
+  }
+}
